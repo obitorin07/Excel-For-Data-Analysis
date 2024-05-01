@@ -1,0 +1,33 @@
+Finding Duplicates and Fixing Spelling Mistakes Using Excel,,,,,,,,,
+,,,,,,,,,
+FIRST_NAME,LAST_NAME,FULL NAME,AGE,GENDER,CITY,EMAIL,PRODUCT_NAME,"LEFT(C4,SEARCH("" "",C4))","RIGHT(C4,LEN(C4)-SEARCH("" "",C4))"
+John,Smith,John Smith,25,Male,New York,john@example.com,Laptop,John ,Smith
+Michael,Johnson,Michael Johnson,40,Male,Chicago,emily@example.com,Desktop,Michael ,Johnson
+Sarah,Williams,Sarah Williams,35,Female,Houston,sarah@example.com,Mouse,Sarah ,Williams
+David,Jones,David Jones,28,Male,Maimi,david@example.com,Keyboard,David ,Jones
+Kevin,Brown,Kevin Brown,45,Male,San Francisco,samantha@example.com,Monitor,Kevin ,Brown
+Samantha,Davis,Samantha Davis,29,Female,Dallas,kevin@example.com,Headphones,Samantha ,Davis
+Brian,Miller,Brian Miller,32,Male,Atlanta,jennifer@example.com,Smartphone,Brian ,Miller
+Amanda,Wilson,Amanda Wilson,27,Female,Washington D.C.,john_doe@example.com,Tablet,Amanda ,Wilson
+Matthew,Moore,Matthew Moore,39,Male,Phoenix,michael@example.com,Printer,Matthew ,Moore
+Nicole,Taylor,Nicole Taylor,37,Female,Portland,jessica@example.com,Scanner,Nicole ,Taylor
+James,Anderson,James Anderson,38,Male,St. Louis'S,brian@example.com,Camera,James ,Anderson
+Lauren,Thomas,Lauren Thomas,29,Female,Austin,amanda@example.com,Smartwatch,Lauren ,Thomas
+Joshua,Jackson,Joshua Jackson,43,Male,San Antonio,daniel@example.com,Television,Joshua ,Jackson
+Brittany,White,Brittany White,28,Female,Nashville,ashley@example.com,Speaker,Brittany ,White
+Andrew,Harris,Andrew Harris,33,Male,Baltimore,matthew@example.com,Microphone,Andrew ,Harris
+Justin,Martin,Justin Martin,35,Male,Pittsburgh,mark@example.com,Projector,Justin ,Martin
+Rachel,Thompson,Rachel Thompson,32,Female,Salt Lake City,nicole@example.com,Router,Rachel ,Thompson
+Brandon,Garcia,Brandon Garcia,39,Male,Kansas City,christopher@example.com,Modem,Brandon ,Garcia
+Heather,Martinez,Heather Martinez,36,Female,Charlotte,taylor@example.com,Earbuds,Heather ,Martinez
+Tyler,Robinson,Tyler Robinson,27,Male,Indianapolis,james@example.com,Gamepad,Tyler ,Robinson
+Stephanie,Clark,Stephanie Clark,34,Female,Pittsburgh,lauren@example.com,Webcam,Stephanie ,Clark
+John,Rodriguez,John Rodriguez,25,Male,New York,joshua@example.com,GPS,John ,Rodriguez
+David,Lewis,David Lewis,28,Male,Miami,brittany@example.com,Fitness Tracker,David ,Lewis
+John,Lee,John Lee,25,Male,New York,andrew@example.com,Drone,John ,Lee
+Emily,Walker,Emily Walker,30,Female,Los Angeles,megan@example.com,External Hard Drive,Emily ,Walker
+Michael,Hall,Michael Hall,40,Male,Chicago,justin@example.com,USB Flash Drive,Michael ,Hall
+Sarah,Allen,Sarah Allen,35,Female,Houston,rachel@example.com,Memory Card,Sarah ,Allen
+David,Young,David Young,28,Male,Miami,brandon@example.com,Battery Charger,David ,Young
+Jessica,Hernandez,Jessica Hernandez,33,Female,Seattle,heather@example.com,Wireless Charger,Jessica ,Hernandez
+Kevin,King,Kevin King,45,Male,Boston,tyler@example.com,Bluetooth Speaker,Kevin ,King

@@ -14,4 +14,4 @@ This repository contains my practice exercises and projects related to data anal
 ![excel_dashboard'](https://github.com/obitorin07/Excel-For-Data-Analysis/assets/157777144/6f1df782-517b-4834-b631-fc2722767fe4)
 Feel free to download and explore the files to enhance your Excel skills and learn more about data analysis!
 
-![Website'](https://www.kirananalyst.com/)
+[![Website](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=google-chrome)](https://www.kirananalyst.com/)

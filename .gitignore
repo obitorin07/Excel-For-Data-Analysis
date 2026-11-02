@@ -1,0 +1,7 @@
+# Google Sheets - Sensitive files
+credentials.json
+config.py
+
+# Python
+__pycache__/
+*.pyc
